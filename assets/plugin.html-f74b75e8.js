@@ -1,1 +1,0 @@
-const a=JSON.parse('{"key":"v-20ac5134","path":"/docs/Java/plugin.html","title":"plugin","lang":"en-US","frontmatter":{"title":"plugin","date":"2020/05/28"},"headers":[],"git":{"createdTime":1696307766000,"updatedTime":1696307766000,"contributors":[{"name":"kaiyuan","email":"guokaiyuan04@gmail.com","commits":1}]},"filePathRelative":"docs/Java/plugin.md"}');export{a as data};
