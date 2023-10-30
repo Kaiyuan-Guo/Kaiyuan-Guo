@@ -1,1 +1,0 @@
-import{_ as e,o as s,c as t,a}from"./app-f6ed7c1e.js";const c={},o=a("p",null,"This is api.",-1),n=[o];function _(i,r){return s(),t("div",null,n)}const u=e(c,[["render",_],["__file","java-basic-questions-01.html.vue"]]);export{u as default};
