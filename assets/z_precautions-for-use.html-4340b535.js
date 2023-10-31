@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-358c10fc","path":"/docs/java/collection/z_precautions-for-use.html","title":"Java集合使用注意事项总结","lang":"en-US","frontmatter":{"title":"Java集合使用注意事项总结","date":"2023/05/27"},"headers":[],"git":{"createdTime":null,"updatedTime":null,"contributors":[]},"filePathRelative":"docs/java/collection/z_precautions-for-use.md"}');export{e as data};
