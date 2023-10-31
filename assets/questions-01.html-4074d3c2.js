@@ -1,0 +1,1 @@
+import{_ as e,o as s,c as t,a as o}from"./app-ec546c67.js";const n={},c=o("p",null,"This is plugin.",-1),_=[c];function a(i,l){return s(),t("div",null,_)}const u=e(n,[["render",a],["__file","questions-01.html.vue"]]);export{u as default};

@@ -1,0 +1,1 @@
+import{_ as e,o as s,c as t,a as o}from"./app-ec546c67.js";const c={},_=o("p",null,"This is theme.",-1),n=[_];function r(a,i){return s(),t("div",null,n)}const u=e(c,[["render",r],["__file","z_precautions-for-use.html.vue"]]);export{u as default};
