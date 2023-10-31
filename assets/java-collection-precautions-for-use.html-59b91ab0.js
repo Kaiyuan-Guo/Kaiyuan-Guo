@@ -1,1 +1,0 @@
-import{_ as e,o,c as t,a as c}from"./app-c007ea35.js";const s={},a=c("p",null,"This is theme.",-1),n=[a];function r(_,l){return o(),t("div",null,n)}const u=e(s,[["render",r],["__file","java-collection-precautions-for-use.html.vue"]]);export{u as default};
