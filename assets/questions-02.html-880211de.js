@@ -1,0 +1,1 @@
+import{_ as e,o as s,c as t,a as o}from"./app-6bcffc09.js";const c={},n=o("p",null,"This is theme.",-1),_=[n];function a(r,i){return s(),t("div",null,_)}const u=e(c,[["render",a],["__file","questions-02.html.vue"]]);export{u as default};
