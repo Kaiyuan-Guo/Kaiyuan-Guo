@@ -1,1 +1,0 @@
-import{_ as e,o as s,c as t,a as o}from"./app-9563b834.js";const c={},n=o("p",null,"This is api.",-1),_=[n];function a(i,r){return s(),t("div",null,_)}const u=e(c,[["render",a],["__file","questions-01.html.vue"]]);export{u as default};
