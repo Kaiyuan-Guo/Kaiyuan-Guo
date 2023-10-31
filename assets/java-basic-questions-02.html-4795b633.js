@@ -1,0 +1,1 @@
+import{_ as e,o as s,c as t,a as c}from"./app-91bd0c06.js";const o={},a=c("p",null,"This is theme-reco.",-1),n=[a];function _(i,r){return s(),t("div",null,n)}const u=e(o,[["render",_],["__file","java-basic-questions-02.html.vue"]]);export{u as default};
