@@ -1,1 +1,0 @@
-const a=JSON.parse('{"key":"v-00cbd78c","path":"/docs/java/basis/serialization.html","title":"Java 序列化详解","lang":"en-US","frontmatter":{"title":"Java 序列化详解","date":"2023/10/31"},"headers":[],"git":{"createdTime":null,"updatedTime":null,"contributors":[]},"filePathRelative":"docs/java/basis/serialization.md"}');export{a as data};
