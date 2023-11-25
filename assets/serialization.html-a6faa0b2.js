@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as o,a as s}from"./app-9b26a8d7.js";const a={},c=s("p",null,"序列化",-1),n=[c];function _(r,i){return t(),o("div",null,n)}const d=e(a,[["render",_],["__file","serialization.html.vue"]]);export{d as default};
