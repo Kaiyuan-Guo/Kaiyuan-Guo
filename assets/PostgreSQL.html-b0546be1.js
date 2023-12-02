@@ -1,0 +1,1 @@
+import{_ as t,o as s,c as o,a as e,b as r}from"./app-8f894c98.js";const a={},c=e("h2",{id:"postgresql教程",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#postgresql教程","aria-hidden":"true"},"#"),r(" PostgreSQL教程")],-1),n=[c];function _(d,l){return s(),o("div",null,n)}const h=t(a,[["render",_],["__file","PostgreSQL.html.vue"]]);export{h as default};
