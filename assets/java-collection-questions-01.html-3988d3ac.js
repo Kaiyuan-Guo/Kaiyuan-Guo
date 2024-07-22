@@ -1,1 +1,0 @@
-import{_ as e,o,c as t,b as s}from"./app-25871fd1.js";const c={},n=s("p",null,"This is plugin.",-1),l=[n];function _(a,i){return o(),t("div",null,l)}const u=e(c,[["render",_],["__file","java-collection-questions-01.html.vue"]]);export{u as default};

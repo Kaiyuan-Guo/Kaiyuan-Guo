@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as o,b as s}from"./app-25871fd1.js";const c={},n=s("p",null,"This is theme.",-1),_=[n];function a(l,i){return t(),o("div",null,_)}const u=e(c,[["render",a],["__file","java-collection-questions-02.html.vue"]]);export{u as default};
